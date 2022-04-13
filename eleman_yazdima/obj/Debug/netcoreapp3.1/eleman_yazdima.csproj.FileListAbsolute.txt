@@ -1,0 +1,14 @@
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.exe
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.deps.json
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.runtimeconfig.json
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.runtimeconfig.dev.json
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.dll
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\bin\Debug\netcoreapp3.1\eleman_yazdima.pdb
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.AssemblyInfo.cs
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.dll
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.pdb
+C:\Users\90553\source\repos\Veri_Uyg\eleman_yazdima\obj\Debug\netcoreapp3.1\eleman_yazdima.genruntimeconfig.cache
